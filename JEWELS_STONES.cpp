@@ -12,6 +12,8 @@ Example 2:
 Input: J = "z", S = "ZZ"
 Output: 0
 */
+//Lorenzo Vazquez
+//Brute Force
 
 #include <iostream>
 class Solution 
